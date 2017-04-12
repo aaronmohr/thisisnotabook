@@ -1,0 +1,124 @@
+html body {
+    margin: 0;
+    padding: 0;
+    border: 15px solid blue;
+    color: #232323;
+    font-family: 'Cardo', serif;
+}
+
+p {
+   font-size: 24pt; 
+}
+
+a {
+   color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 {
+    top: 0;
+    font-size: 100pt;
+    font-weight: 600;
+    line-height: 150px;
+    color: blue;
+    margin-bottom: 10px;
+    text-decoration: line-through;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 40pt;
+}
+
+h3 {
+    font-size: 20pt;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin: 0px auto 150px auto;
+    color: red;
+}
+
+h4 {
+    font-size: 12pt;
+    margin: 10px 0;
+}
+
+h5 {
+    text-align: center;
+    font-size: 5vw;
+    color: red;
+    line-height: 150px;
+    margin: 100px 0px 0px 0px;
+}
+
+em {
+    color: red;
+}
+
+/* Text Styles */
+
+.paragraphLeft {
+    width: 60%;
+    float: left;
+}
+
+/* Formatting Styles */
+
+.top {
+    margin: 50px 13%;
+}
+
+.section {
+    margin: 100px 20%;
+}
+
+.intro {
+    margin: 0px 20%;
+}
+
+hr {
+    margin-bottom: 50px;
+}
+
+/* Images */
+
+.image {
+    margin: 50px auto;
+    width: 100%;
+}
+
+.smudge-1 img {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+
+
+.smudge-2 img {
+    width: 50%;
+    height: auto;
+}
+
+.span-1 {
+    display: block;
+    width: 40%;
+}
+
+/* Animation */
+
+
